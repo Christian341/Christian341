@@ -2,7 +2,7 @@
 
 - 🔭 No momento não estou trabalhando, mas estou aberto para novas oportunidades!
 - 🌱 Atualmente estou estudando Bootstrap
-- 👯 Estou procurando colaborar em qualquer projeto no qual eu vou conseguir evoluir meus conhecimentos!
+- 👯 Estou procurando colaborar em qualquer projeto no qual eu vá conseguir evoluir meus conhecimentos!
 - 🤔 Estou procurando ajuda em Desenvolvimento Front-end
 - 📫 Como chegar até mim: Christianoliveira641@gmail.com
 - ⚡ Fato divertido: toco alguns instrumentos e gosto de produção musical! 
