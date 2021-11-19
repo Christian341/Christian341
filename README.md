@@ -1,6 +1,6 @@
 ### Olá, eu sou o Christian!👋
 
-- 🔭 No momento não estou trabalhando, mas aberto para novas oportunidades!
+- 🔭 No momento não estou trabalhando, mas estou aberto para novas oportunidades!
 - 🌱 Atualmente estou estudando Bootstrap
 - 👯 Estou procurando colaborar em qualquer projeto no qual eu vou conseguir evoluir meus conhecimentos!
 - 🤔 Estou procurando ajuda em Desenvolvimento Front-end
