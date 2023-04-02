@@ -1,11 +1,11 @@
 ### Olá, eu sou o Christian!👋
 
-- 🔭 No momento não estou trabalhando, mas estou aberto para novas oportunidades!
-- 🌱 Atualmente estou estudando Bootstrap
-- 👯 Estou procurando colaborar em qualquer projeto no qual eu vá conseguir evoluir meus conhecimentos!
-- 🤔 Estou procurando ajuda em Desenvolvimento Front-end
+- 🔭 Trabalho como Product Designer e UX/UI Designer 
+- 🌱 Estudando sempre para me adequar ao mercado e buscando sempre novos conhecimentos
+- 👯 Sempre a procura de evoluir e aprender coisas novas com pessoas novas 
+- 🤔 Sou UX/UI Designer mas como estou integrado no mundo e universo da tecnologia, sempre quero estudar e aprender coisas novas desse universo!
 - 📫 Como chegar até mim: Christianoliveira641@gmail.com
-- ⚡ Fato divertido: toco alguns instrumentos e gosto de produção musical! 
+- ⚡ Fato divertido: Sou professor de música e amo produção musical! 
 
 <div>
   <a href="https:/github.com/christian341">
