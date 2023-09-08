@@ -17,7 +17,8 @@
   <img align="center" alt="Christian Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"/>
   <img align="center" alt="Christian Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
   <img align="center" alt="Christian Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Christian Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>  
+  <img align="center" alt="Christian Css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/> 
+  <img aligh="center" alt="Christian React" height="30" width="40" src="https://icons8.com.br/icon/wPohyHO_qO1a/reagir"/>
                                                                                                                                                 </div>
 
 ##
